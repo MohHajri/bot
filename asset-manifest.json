@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/bot/static/css/main.84a84b44.css",
+    "main.js": "/github.io/bot/static/js/main.b1de99d7.js",
+    "static/js/453.7315af43.chunk.js": "/github.io/bot/static/js/453.7315af43.chunk.js",
+    "static/media/chat4.png": "/github.io/bot/static/media/chat4.5a316fb310ccba7b36c1.png",
+    "static/media/chat3.webp": "/github.io/bot/static/media/chat3.17fbd0e4ba20dafb3fd2.webp",
+    "static/media/chat2.webp": "/github.io/bot/static/media/chat2.97b7bf80e8cad6c54b92.webp",
+    "static/media/chat1.webp": "/github.io/bot/static/media/chat1.1aff539b0dccc9cb6c58.webp",
+    "static/media/logo2.svg": "/github.io/bot/static/media/logo2.91084741d108d56af3316af30168910a.svg",
+    "static/media/logo3.svg": "/github.io/bot/static/media/logo3.6181e5cecd1a682846ba3e623621a869.svg",
+    "static/media/logo1.svg": "/github.io/bot/static/media/logo1.202b9fba549450ca6ad6d6f69fa4802c.svg",
+    "index.html": "/github.io/bot/index.html",
+    "main.84a84b44.css.map": "/github.io/bot/static/css/main.84a84b44.css.map",
+    "main.b1de99d7.js.map": "/github.io/bot/static/js/main.b1de99d7.js.map",
+    "453.7315af43.chunk.js.map": "/github.io/bot/static/js/453.7315af43.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84a84b44.css",
+    "static/js/main.b1de99d7.js"
+  ]
+}
